@@ -1,0 +1,13 @@
+{
+  "appId": "io.framework7.employeeApp",
+  "appName": "Employee app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
